@@ -32617,7 +32617,7 @@
 		</Item>		
 		<Item type="CVehicleSeatInfo">
 			<Name>SEAT_COACH_SMALL_FRONT_RIGHT</Name>
-			<SeatBoneName>seat_pside_f</SeatBoneName>
+			<SeatBoneName>seat_pside_r</SeatBoneName>
 			<ShuffleLinkInfos>
 				<Item>
 					<Link>SEAT_COACH_SMALL_FRONT_LEFT</Link>
