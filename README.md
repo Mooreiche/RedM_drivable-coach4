@@ -3,7 +3,7 @@ script to drive a coach without a horse (could be the beginnings of cars, we jus
 
 ## INSTALL
 
-- Citizen into RedM folder
+- Citizen into RedM folder (C:\Users\YOURNAME\AppData\Local\RedM\RedM.app)
 - Engine into Server Resources folder
 
 ## HOW TO USE
